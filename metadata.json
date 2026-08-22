@@ -1,0 +1,6 @@
+{
+  "name": "CalmCore",
+  "description": "Zero-friction emergency mental clarity and de-escalation tool designed to break cognitive paralysis in under 60 seconds with guided grounding, crisis triage, and AI micro-action trees.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
